@@ -1,6 +1,5 @@
 # 👹 Mean Bot (Enforcer AI)
 
-A sophisticated, minimalist AI chat interface with a "scary" Nepali-style personality. Built with **React**, **Vite**, and **Tailwind CSS**, powered by the **Gemini 2.0 Flash** engine.
 
 Unlike standard AI assistants, **Mean Bot** is designed to be short, direct, and intimidating.
 
