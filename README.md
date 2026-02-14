@@ -1,17 +1,24 @@
-# React + Vite
+# 👹 Mean Bot (Enforcer AI)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sophisticated, minimalist AI chat interface with a "scary" Nepali-style personality. Built with **React**, **Vite**, and **Tailwind CSS**, powered by the **Gemini 2.0 Flash** engine.
 
-Currently, two official plugins are available:
+Unlike standard AI assistants, **Mean Bot** is designed to be short, direct, and intimidating.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+##  Key Features
 
-## Expanding the ESLint configuration
+* **Bring Your Own Key (BYOK):** No middleman. Input your Google Gemini API key directly in the browser.
+* **Local Persistence:** Your API key and model preferences (Temperature, Tokens) are saved in `localStorage`.
+* **Nepal-Style Persona:** System instructions are optimized to deliver a scolding, mean-spirited personality.
+* **Responsive & Fast:** Built on Vite for near-instant load times and smooth animations.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
 
+##  Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/PratikPant01/mean_bot.git](https://github.com/PratikPant01/mean_bot.git)
+   cd mean_bot
