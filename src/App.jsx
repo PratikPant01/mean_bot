@@ -1,6 +1,6 @@
-import ChatComponent from "./ChatComponent";
+import ChatComponent from "./chatcomponent";
 import { useState, useRef, useEffect } from "react";
-import Headers from "./headers";
+import Headers from "./Headers";
 import { Send, Sparkles, Settings2, AlertCircle, Loader2, Key } from "lucide-react";
 
 function App() {
